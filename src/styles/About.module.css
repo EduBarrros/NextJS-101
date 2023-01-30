@@ -1,0 +1,16 @@
+.MainContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.MainContainer h1 {
+    margin-bottom: 1.5em;
+    margin-top: 2em;
+}
+
+.MainContainer p {
+    margin-bottom: 5em;
+    font-weight: 600;
+}
