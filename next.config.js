@@ -4,6 +4,9 @@ const nextConfig = {
   experimental: {
     newNextLinkBehavior: false,
   },
+  images: {
+    domains: ['raw.githubusercontent.com'],
+  }
 }
 
 module.exports = nextConfig
